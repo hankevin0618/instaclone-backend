@@ -24,10 +24,12 @@
     "@graphql-tools/schema": "^9.0.17",
     "@prisma/client": "^4.12.0",
     "apollo-server": "^3.12.0",
+    "bcrypt": "^5.1.0",
     "dotenv": "^16.0.3",
     "graphql": "^16.6.0",
     "graphql-modules": "^2.1.2",
-    "graphql-tools": "^8.3.19"
+    "graphql-tools": "^8.3.19",
+    "jsonwebtoken": "^9.0.0"
   },
   "devDependencies": {
     "@babel/node": "^7.20.7",
